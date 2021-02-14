@@ -1,5 +1,3 @@
-// alert('Я тебя очень люблю, моё золото');
-
 $('.single-item').slick({
 	infinite: true,
 	dots: true,

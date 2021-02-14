@@ -1,1 +1,2 @@
- $('.single-item').slick();
+alert('Привет, моя любовь');
+$('.single-item').slick();
